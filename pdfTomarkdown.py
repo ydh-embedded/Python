@@ -1,8 +1,7 @@
 # winget install ---id Python.Python.3.13
 
 
-import fitz
-# import pymupdf4llm
+import pymupdf4llm
 
 
 
